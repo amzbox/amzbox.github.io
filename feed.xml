@@ -9,4 +9,42 @@
     </author>
     <id>https://amzbox.github.io</id>
 
+    <entry>
+        <title>Welcome! This is My First Post</title>
+        <author>
+            <name>AMZBox</name>
+        </author>
+        <link href="https://amzbox.github.io/welcome-this/"/>
+        <id>https://amzbox.github.io/welcome-this/</id>
+            <category term="First"/>
+
+        <updated>2020-06-23T00:34:12+07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://amzbox.github.io/media/posts/1/35-Mempercepat-Wordpress-src-winningwp.com.jpg" alt="" />
+                     Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://amzbox.github.io/media/posts/1/35-Mempercepat-Wordpress-src-winningwp.com.jpg" alt="" />
+                
+  <p>
+    
+  </p>
+
+    <h2 id="heading-2">
+      Heading 2
+    </h2>
+
+  <p>
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  </p>
+
+  <p>
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  </p>
+            ]]>
+        </content>
+    </entry>
 </feed>

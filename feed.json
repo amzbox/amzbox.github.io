@@ -9,5 +9,21 @@
         "name": "AMZBox"
     },
     "items": [
+        {
+            "id": "https://amzbox.github.io/welcome-this/",
+            "url": "https://amzbox.github.io/welcome-this/",
+            "title": "Welcome! This is My First Post",
+            "summary": " Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate&hellip;",
+            "content_html": "\n  <p>\n    \n  </p>\n\n    <h2 id=\"heading-2\">\n      Heading 2\n    </h2>\n\n  <p>\n    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n  </p>\n\n  <p>\n    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n  </p>",
+            "image": "https://amzbox.github.io/media/posts/1/35-Mempercepat-Wordpress-src-winningwp.com.jpg",
+            "author": {
+                "name": "AMZBox"
+            },
+            "tags": [
+                   "First"
+            ],
+            "date_published": "2020-06-23T00:34:12+07:00",
+            "date_modified": "2020-06-23T00:34:12+07:00"
+        }
     ]
 }
